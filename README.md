@@ -4,7 +4,8 @@ I'm a Full Stack Engineer and Data Engineer passionate about building innovative
 
 ## 🎓 Education
 
-B.Tech, Information TechnologyOct 2020 - Apr 2024Disciplines: Data Structures & Algorithms, Database Management Systems, Object-Oriented Programming, Operating Systems, Big Data Analytics.
+B.Tech, Information Technology  Oct 2020 - Apr 2024
+Disciplines: Data Structures & Algorithms, Database Management Systems, Object-Oriented Programming, Operating Systems, Big Data Analytics.
 
 ---
 
