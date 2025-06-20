@@ -1,43 +1,46 @@
-👋 Hi, I'm Karthick Palanivel!
+# 👋 Hi, I'm Karthick Palanivel!
+
 I'm a Full Stack Engineer and Data Engineer passionate about building innovative, scalable, and user-centric solutions. With expertise in web/mobile development, AI-driven applications, and data pipelines, I love bridging technology and business impact. 🚀 Currently, I contribute to blockchain projects and develop efficient systems using modern tech stacks. Let's create something amazing together! 🤝
 
-🎓 Education
+## 🎓 Education
 
 B.Tech, Information TechnologyOct 2020 - Apr 2024Disciplines: Data Structures & Algorithms, Database Management Systems, Object-Oriented Programming, Operating Systems, Big Data Analytics.
 
+---
 
 ## 💼 Experience
 ### Junior Software Engineer
-```VTS Enterprises India Pvt. Ltd. | Jul 2024 - Mar 2025 ```
+<i>VTS Enterprises India Pvt. Ltd. | Jul 2024 - Mar 2025</i>
 
 - Led a team of 3 to develop a B2B mobile app using Java, Spring Boot, Microservices, PostgreSQL, and Azure
 - Designed RESTful APIs for Merchant and Customer modules, streamlining the buying/selling process.  
 - Implemented an issues/support tracking system, reducing customer ticketing queries by 30%.
 
-Java Full Stack Developer
-Trio Devs Digital Services Pvt. Ltd. | Oct 2023 - Mar 2024  
+### Java Full Stack Developer
+<i>Trio Devs Digital Services Pvt. Ltd. | Oct 2023 - Mar 2024 </i>
 
 Built an AI-powered Customer Support System with Spring AI and PostgreSQL, providing 24/7 query resolution with text/image-based responses.  
 Mentored 20+ student interns on MERN stack development.
 
-Software Developer Contributor
-Web3 Chennai Community | Mar 2023 - Present  
+### Software Developer Contributor
+<i>Web3 Chennai Community | Mar 2023 - Present</i>  
 
 Developed blockchain-oriented mobile/web apps using React Native, React JS, and Solana Blockchain for hackathons and events.  
 Built Rhino Rewards, a super app offering cashback and crypto rewards, and an event-hosting app for community management.
 
+---
 
-🛠️ Skills
+## 🛠️ Skills
 
-Languages: Java ☕, Python 🐍, JavaScript 🌐, SQL 🗄️, HTML/CSS 🎨, Shell 🖥️  
+```Languages:``` Java ☕, Python 🐍, JavaScript 🌐, SQL 🗄️, HTML/CSS 🎨, Shell 🖥️  
 
-Frameworks: Spring Boot 🌱, React Native ⚛️, React JS ⚛️, Next JS 🚀, Tailwind CSS 🎨, Bootstrap 🌀, Redux 🔄  
+```Frameworks:``` Spring Boot 🌱, React Native ⚛️, React JS ⚛️, Next JS 🚀, Tailwind CSS 🎨, Bootstrap 🌀, Redux 🔄  
 
-Backend: PostgreSQL 🐘, RESTful APIs 🌍, GraphQL 🚀, Apache Spark 🔥, Airflow 🌬️  
+```Backend:``` PostgreSQL 🐘, RESTful APIs 🌍, GraphQL 🚀, Apache Spark 🔥, Airflow 🌬️  
 
-Data Engineering: Azure Cloud ☁️, Databricks 📊, PySpark ⚡, Hadoop 🐘, Hive 🐝, Azure Synapse Analytics 📈  
+```Data Engineering:``` Azure Cloud ☁️, Databricks 📊, PySpark ⚡, Hadoop 🐘, Hive 🐝, Azure Synapse Analytics 📈  
 
-Tools: Git 🗃️, GitHub 🐙, Azure Storage Accounts 📦
+```Tools:``` Git 🗃️, GitHub 🐙, Azure Storage Accounts 📦
 
 --- 
 
@@ -50,7 +53,7 @@ Tools: Git 🗃️, GitHub 🐙, Azure Storage Accounts 📦
 - Winner, EthIndia 2023 - International Blockchain Hackathon
 
 
-📬 Connect with Me
+## 📬 Connect with Me
 
 ✉️<a target="_blank" href="mailto:karthickpalanivelit@gmail.com">karthickpalanivelit@gmail.com</a>  
 🖥️<a target="_blank" href="https://leetcode.com/u/karthickpalanivel">LeetCode</a>  
