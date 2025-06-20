@@ -2,14 +2,6 @@
 
 I'm a Full Stack Engineer and Data Engineer passionate about building innovative, scalable, and user-centric solutions. With expertise in web/mobile development, AI-driven applications, and data pipelines, I love bridging technology and business impact. Let's create something amazing together! 🤝
 
-## 🎓 Education
-
-B.Tech, Information Technology  <b>Oct 2020 - Apr 2024<b>
-<br></br>
-Disciplines: Data Structures & Algorithms, Database Management Systems, Object-Oriented Programming, Operating Systems, Big Data Analytics.
-
----
-
 ## 💼 Experience
 ### Junior Software Engineer
 <i>VTS Enterprises India Pvt. Ltd. | Jul 2024 - Mar 2025</i>
@@ -45,6 +37,12 @@ Disciplines: Data Structures & Algorithms, Database Management Systems, Object-O
 ```Tools:``` Git 🗃️, GitHub 🐙, Azure Storage Accounts 📦
 
 --- 
+## 🎓 Education
+
+B.Tech, Information Technology  <b>Oct 2020 - Apr 2024<b>
+<br></br>Disciplines: Data Structures & Algorithms, Database Management Systems, Object-Oriented Programming, Operating Systems, Big Data Analytics.
+
+---
 
 ### 🏆 Certifications & Achievements
 
