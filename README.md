@@ -19,14 +19,14 @@ B.Tech, Information TechnologyOct 2020 - Apr 2024Disciplines: Data Structures & 
 ### Java Full Stack Developer
 <i>Trio Devs Digital Services Pvt. Ltd. | Oct 2023 - Mar 2024 </i>
 
-Built an AI-powered Customer Support System with Spring AI and PostgreSQL, providing 24/7 query resolution with text/image-based responses.  
-Mentored 20+ student interns on MERN stack development.
+- Built an AI-powered Customer Support System with Spring AI and PostgreSQL, providing 24/7 query resolution with text/image-based responses.  
+- Mentored 20+ student interns on MERN stack development.
 
 ### Software Developer Contributor
 <i>Web3 Chennai Community | Mar 2023 - Present</i>  
 
-Developed blockchain-oriented mobile/web apps using React Native, React JS, and Solana Blockchain for hackathons and events.  
-Built Rhino Rewards, a super app offering cashback and crypto rewards, and an event-hosting app for community management.
+- Developed blockchain-oriented mobile/web apps using React Native, React JS, and Solana Blockchain for hackathons and events.  
+- Built Rhino Rewards, a super app offering cashback and crypto rewards, and an event-hosting app for community management.
 
 ---
 
