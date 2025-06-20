@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karthick Palanivel!
 
-I'm a Full Stack Engineer and Data Engineer passionate about building innovative, scalable, and user-centric solutions. With expertise in web/mobile development, AI-driven applications, and data pipelines, I love bridging technology and business impact. 🚀 Currently, I contribute to blockchain projects and develop efficient systems using modern tech stacks. Let's create something amazing together! 🤝
+I'm a Full Stack Engineer and Data Engineer passionate about building innovative, scalable, and user-centric solutions. With expertise in web/mobile development, AI-driven applications, and data pipelines, I love bridging technology and business impact. Let's create something amazing together! 🤝
 
 ## 🎓 Education
 
