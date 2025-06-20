@@ -8,7 +8,7 @@ I'm a ```Full Stack Engineer``` and ```Data Engineer``` passionate about buildin
 
 - Led a team of 3 to develop a B2B mobile app using Java, Spring Boot, Microservices, PostgreSQL, and Azure
 - Designed RESTful APIs for Merchant and Customer modules, streamlining the buying/selling process.  
-- Implemented an issues/support tracking system, reducing customer ticketing queries by 30%.
+- Implemented an issues/support tracking system, reducing customer ticketing queries.
 
 ### Java Full Stack Developer
 <i>Trio Devs Digital Services Pvt. Ltd. | Oct 2023 - Mar 2024 </i>
