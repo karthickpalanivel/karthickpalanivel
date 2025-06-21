@@ -4,7 +4,7 @@ I'm a ```Full Stack Engineer``` and ```Data Engineer``` passionate about buildin
 
 ## 💼 Experience
 ### Junior Software Engineer
-<i>VTS Enterprises India Pvt. Ltd. | Jul 2024 - Mar 2025</i>
+<i>VTS Enterprises India Pvt. Ltd. </i><i align="left"> Jul 2024 - Mar 2025</i>
 
 - Led a team of 3 to develop a B2B mobile app using Java, Spring Boot, Microservices, PostgreSQL, and Azure
 - Designed RESTful APIs for Merchant and Customer modules, streamlining the buying/selling process.  
@@ -39,7 +39,7 @@ I'm a ```Full Stack Engineer``` and ```Data Engineer``` passionate about buildin
 --- 
 ## 🎓 Education
 
-B.Tech, Information Technology  <b>Oct 2020 - Apr 2024<b>
+B.Tech, Information Technology  <b align="left">Oct 2020 - Apr 2024<b>
 <br></br>Disciplines: Data Structures & Algorithms, Database Management Systems, Object-Oriented Programming, Operating Systems, Big Data Analytics.
 
 ---
