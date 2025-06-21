@@ -32,9 +32,9 @@ I'm a ```Full Stack Engineer``` and ```Data Engineer``` passionate about buildin
 
 ```Backend:``` PostgreSQL 🐘, RESTful APIs 🌍, GraphQL 🚀, Apache Spark 🔥, Airflow 🌬️  
 
-```Data Engineering:``` Azure Cloud ☁️, Databricks 📊, PySpark ⚡, Hadoop 🐘, Hive 🐝, Azure Synapse Analytics 📈  
+```Data Engineering:``` Azure Cloud ☁️, Databricks 📊, PySpark ⚡, Hadoop 🐘, Hive 🐝, Azure Synapse Analytics 📈,  Azure Storage Accounts 📦 
 
-```Tools:``` Git 🗃️, GitHub 🐙, Azure Storage Accounts 📦
+```Tools:``` Git 🗃️, GitHub 🐙, Figma 🎨, 
 
 --- 
 ## 🎓 Education
